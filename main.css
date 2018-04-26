@@ -19,3 +19,30 @@ img{
     border:1px solid black;
     vertical-align: middle;
 }
+
+.content{
+    margin-top:40px;
+}
+
+.content div{
+    width:420px;
+    border:1px solid #000000;
+    margin:auto;
+    text-align: left;
+}
+
+.content h2{
+    padding:10px 20px;
+    background: linear-gradient(darkred,rgb(73, 3, 3));
+    color:whitesmoke;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.content p{
+    padding:10px 30px;
+}
+
+.content #titles{
+   margin:50px auto 20px auto;
+}
